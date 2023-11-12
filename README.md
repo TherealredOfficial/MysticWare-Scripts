@@ -11,4 +11,9 @@ Supporting Scripts:
 [Click here](BladeBall)
 
 # Arsenal
+[Click here](Arsenal)
+
+
 # BloxFruits
+[Click here](BloxFruits)
+
