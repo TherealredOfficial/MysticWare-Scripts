@@ -8,5 +8,7 @@ some of these scripts are not mine so credits to the people and developers that 
 Supporting Scripts:
 
 # Blade Ball
+[Click here](BladeBall)
+
 # Arsenal
 # BloxFruits
