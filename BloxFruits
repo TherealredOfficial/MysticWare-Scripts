@@ -12,3 +12,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2')
 
 --Credits To owner ig
 
+--HoHo Hub
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+
+--a script idk
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto2/Bf/main/QrtoScriptHub"))()
