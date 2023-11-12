@@ -1,0 +1,14 @@
+--Aimbot
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Aimbot"))()
+
+--credit to owner
+
+
+
+--Gui With AutoFarm nd Alot More
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
+
+--Credits To owner ig
+
